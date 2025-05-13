@@ -1,6 +1,7 @@
 jupyter
 pandas
+numpy
+matplotlib
 seaborn
-pillow
 networkx
 nltk
